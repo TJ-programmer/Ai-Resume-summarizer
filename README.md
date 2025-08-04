@@ -1,4 +1,3 @@
-````markdown name=README.md
 # 🤖 AI Resume Summarizer Agent
 
 **AI Resume Summarizer Agent** is a modern, interactive Streamlit application that leverages the power of LLMs, RAG (Retrieval-Augmented Generation), and CrewAI agents to analyze, summarize, and provide actionable insights on resumes. Upload your resume (PDF, DOCX, or TXT), get a detailed AI-driven analysis, chat with your resume, and download a comprehensive report!
@@ -106,7 +105,6 @@ streamlit run app.py
 
 Pull requests welcome! If you have suggestions for improvements, new features, or bug fixes, please open an issue or PR.
 
-
 ---
 
 ## 🙏 Acknowledgments
@@ -130,4 +128,3 @@ Pull requests welcome! If you have suggestions for improvements, new features, o
 <div align="center">
   <b>Level up your resume with AI! 🚀</b>
 </div>
-````
